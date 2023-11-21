@@ -5,7 +5,6 @@
 - 📫 Wanna collab ?! Send a hi on my LinkedIn.
 - 🔗 "www.linkedin.com/in/mohammed-niyas-071717248"
 - 
-[![callmeniyu's GitHub | Languages Over Time](https://stats.quine.sh/callmeniyu/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=callmeniyu)
 
 [![callmeniyu's GitHub | Stats](https://stats.quine.sh/callmeniyu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=callmeniyu)
 <!---
