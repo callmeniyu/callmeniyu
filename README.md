@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I'm looking to collaborate on projects that are both challenging and rewarding.
 - 📫 Wanna collab ?! Send a hi on my LinkedIn.
-- 🔗 "www.linkedin.com/in/mohammed-niyas-071717248"
+- 🔗 "www.linkedin.com/in/callmeniyu"
 - 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=callmeniyu)](https://github.com/callmeniyu/github-readme-stats)
